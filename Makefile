@@ -2,7 +2,7 @@ all: site.md style.css
 	pandoc -s site.md -c style.css -o index.html
 
 
-install: index.html
+www: index.html
 	mkdir -p www
 	cp index.html www
 	cp style.css www
