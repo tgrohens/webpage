@@ -12,7 +12,7 @@ Before that, I studied at the [École Normale Supérieure](https://www.ens.psl.e
 
 You can find my CV [here](./pdf/resume.pdf), follow me on [Twitter](https://twitter.com/tgrohens), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
 
-You can join me at `theotime (.) grohens (@) inria (.) fr`.
+You can reach me at `theotime (.) grohens (@) inria (.) fr`.
 
 ## Research interests
 
@@ -25,18 +25,19 @@ In order to study this phenomenon under the light of evolution, I am developing 
 
 ### Computational Biology
 
-* **A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling**,
+* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
 **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE_, 2021. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
+
+### Covid-19
+
+* **_Understanding and monitoring the evolution of the Covid-19 epidemic from medical emergency calls: the example of the Paris area_**.
+Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
 
 ### Programming Languages
 
-* **Symbolic Execution for JavaScript**,
+* **_Symbolic Execution for JavaScript_**.
 José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Philippa Gardner, _Principles and Practice of Declarative Programming_, 2018. ([doi](https://doi.org/10.1145/3236950.3236956), [pdf](./pdf/ppdp18.pdf))
 
-
-### Other
-
-* **Understanding and monitoring the evolution of the Covid-19 epidemic from medical emergency calls: the example of the Paris area**,  Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
 
 ## Talks & Posters
 
