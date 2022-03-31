@@ -8,7 +8,7 @@ title: Théotime Grohens
 
 I’m a Ph.D. student at [INSA Lyon](https://www.insa-lyon.fr/), in the [Inria Beagle](https://team.inria.fr/beagle/) team.
 
-Before that, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and an M. Sc. in [life sciences](https://www.enseignement.biologie.ens.fr/spip.php?rubrique11).
+Before that, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
 
 You can find my CV [here](./pdf/resume.pdf), follow me on [Twitter](https://twitter.com/tgrohens), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
 
@@ -19,14 +19,14 @@ You can reach me at `theotime (.) grohens (@) inria (.) fr`.
 My current research interests focus on evolutionary biology, and especially mathematical and computational models of evolution.
 
 The broad goal of my Ph.D. project is to gain a better understanding of how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, and I am currently focusing on the coupling between DNA supercoiling and gene transcription.
-In order to study this phenomenon under the light of evolution, I am developing and using [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape the genome over evolutionary timescales.
+In order to study this phenomenon under the light of evolution, I develop and use [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape the genome over evolutionary timescales.
 
 ## Publications
 
 ### Computational Biology
 
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE_, 2021. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
+**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
 
 ### Covid-19
 
