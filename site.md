@@ -25,6 +25,9 @@ In order to study this phenomenon under the light of evolution, I develop and us
 
 ### Computational Biology
 
+* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.
+**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life (in press)_. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [pdf](./pdf/alife-journal.pdf))
+
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
 **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
 
