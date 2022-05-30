@@ -34,7 +34,7 @@ In order to study this phenomenon under the light of evolution, I develop and us
 ### Covid-19
 
 * **_Understanding and monitoring the evolution of the Covid-19 epidemic from medical emergency calls: the example of the Paris area_**.
-Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
+Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([hal](https://hal.archives-ouvertes.fr/hal-02648075v2), [doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
 
 ### Programming Languages
 
