@@ -26,7 +26,8 @@ In order to study this phenomenon under the light of evolution, I develop and us
 ### Computational Biology
 
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life (in press)_. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [pdf](./pdf/alife-journal.pdf))
+**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life (to appear)_. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
+https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
 **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
@@ -44,8 +45,9 @@ José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Phi
 
 ## Talks & Posters
 
-* November 2021. [GDR BIM](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2021/), poster.
-* November 2021. [CompSysBio winter school](https://project.inria.fr/compsysbio2021/), short talk and poster.
+* September 2022. [BioSyL](http://www.biosyl.org/news/biosyl-day), Lyon, short talk.
+* November 2021. [GDR BIM](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2021/), Lyon, poster.
+* November 2021. [CompSysBio winter school](https://project.inria.fr/compsysbio2021/), Aussois, short talk and poster.
 * July 2021. [ALIFE 2021](https://www.robot100.cz/alife2021/), Prague (virtual), short talk.
 * November 2019. [GDR AIEM](https://aiem2019.sciencesconf.org/program), Toulouse, short talk.
 
