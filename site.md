@@ -1,8 +1,6 @@
 ---
 title: Théotime Grohens
-# author: Théotime Grohens
-# date: 7 janvier 2021
----
+--
 
 <img src="./img/photo.jpg" width="250" align="right" style="margin:0px 20px">
 
