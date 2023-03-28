@@ -1,34 +1,41 @@
 ---
 title: Théotime Grohens
---
+---
 
 <img src="./img/photo.jpg" width="250" align="right" style="margin:0px 20px">
 
-I’m a Ph.D. student at [INSA Lyon](https://www.insa-lyon.fr/), in the [Inria Beagle](https://team.inria.fr/beagle/) team.
+I’m a post-doctoral researcher at the [Center for Genomic Regulation](https://www.crg.eu/) in Barcelona, in the [Weghorn lab](https://weghornlab.net/).
 
-Before that, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
+Before that, I did my Ph.D. at [INSA Lyon](https://www.insa-lyon.fr/), in the [Inria Beagle](https://team.inria.fr/beagle/) team.
+Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
 
 You can find my CV [here](./pdf/resume.pdf), follow me on [Twitter](https://twitter.com/tgrohens), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
 
-You can reach me at `theotime (.) grohens (@) inria (.) fr`.
+You can reach me at `theotime (.) grohens (@) crg (.) eu`.
 
 ## Research interests
 
-My current research interests focus on evolutionary biology, and especially mathematical and computational models of evolution.
+My research interests focus on evolutionary biology, and especially mathematical and computational models of evolution.
 
-The broad goal of my Ph.D. project is to gain a better understanding of how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, and I am currently focusing on the coupling between DNA supercoiling and gene transcription.
-In order to study this phenomenon under the light of evolution, I develop and use [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape the genome over evolutionary timescales.
+I am currently working on understanding the selection pressures that are at work in cancer cells, and in particular on the interaction between cancer and the immune system.
+
+During my Ph.D., I worked on understanding how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, through the lens of the coupling between DNA supercoiling and gene transcription.
+In order to study this phenomenon under the light of evolution, I developed and used [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape bacterial genomes over evolutionary timescales.
 
 ## Publications
 
 ### Computational Biology
 
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life (to appear)_. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
+**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life_, 2022. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
 https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
+**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_, 2021. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
+
+#### Preprint(s)
+
+* **_Emergence of Supercoiling-Mediated Regulatory Networks through Bacterial Chromosome Rearrangements_**. **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _bioRxiv_, 2022. ([doi](https://doi.org/10.1101/2022.09.23.509185), [pdf](./pdf/biorXiv22.pdf))
 
 ### Covid-19
 
@@ -39,6 +46,11 @@ Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Coli
 
 * **_Symbolic Execution for JavaScript_**.
 José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Philippa Gardner, _Principles and Practice of Declarative Programming_, 2018. ([doi](https://doi.org/10.1145/3236950.3236956), [pdf](./pdf/ppdp18.pdf))
+
+### Ph.D. Thesis
+
+* **_Ride the Supercoiling:
+Evolution of Supercoiling-Mediated Gene Regulatory Networks through Genomic Inversions_**. Théotime Grohens, 2022. ([pdf](./pdf/phd.pdf))
 
 
 ## Talks & Posters
@@ -51,22 +63,4 @@ José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Phi
 
 ## Teaching
 
-I teach Computer Science at [INSA Lyon](https://www.insa-lyon.fr/), in the [Biosciences](https://biosciences.insa-lyon.fr/) and [Computer Science](https://if.insa-lyon.fr/) departments.
-
-* In 2021-2022, I taught in the [Computer Science](https://if.insa-lyon.fr/fr/content/formation) track:
-  * Introduction to C++ (TA, 16h)
-  * Introduction to Parallel Programming (TA, 22h)
-
-* In 2020-2021, I taught in the [Bioinformatics and Modeling](https://biosciences.insa-lyon.fr/fr/content/parcours-bioinformatique-et-modelisation) track:
-
-  * Introduction to Theoretical Computer Science (12h)
-
-  and in the [Computer Science](https://if.insa-lyon.fr/fr/content/formation) track:
-
-  * Introduction to C++ (TA, 16h)
-  * Introduction to Parallel Programming (TA, 22h)
-  * Tutoring for last-year student projects (10h)
-
-* In 2019-2020, I taught in the [Bioinformatics and Modeling](https://biosciences.insa-lyon.fr/fr/content/parcours-bioinformatique-et-modelisation) track:
-  * Algorithms for Bioinformatics (10h)
-  * Introduction to Theoretical Computer Science (12h)
+During my Ph.D., I taught computer science at [INSA Lyon](https://www.insa-lyon.fr/), in the [Biosciences](https://biosciences.insa-lyon.fr/) and [Computer Science](https://if.insa-lyon.fr/) departments, and at [IUT Lyon 1](https://iut.univ-lyon1.fr/).
