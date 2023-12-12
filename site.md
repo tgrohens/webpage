@@ -54,7 +54,7 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 ### PhD Thesis
 
 * **_Ride the Supercoiling: Evolution of Supercoiling-Mediated Gene Regulatory Networks through Genomic Inversions_**.\
-  **Théotime Grohens**, 2022. ([pdf](./pdf/phd.pdf))
+  **Théotime Grohens**, 2022. ([hal](https://theses.hal.science/tel-04146510v1), [pdf](./pdf/phd.pdf))
 
 
 ## Talks & Posters
