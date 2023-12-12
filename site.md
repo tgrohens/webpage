@@ -26,6 +26,8 @@ In order to study this phenomenon under the light of evolution, I developed and 
 
 ### Computational Biology
 
+* **_Forward-in-time simulation of chromosomal rearrangements: The invisible backbone that sustains long-term adaptation_**. Paul Banse, Juliette Luiselli, David P. Parsons, **Théotime Grohens**, Marco Foley, Leonardo Trujillo, Jonathan Rouzaud-Cornabas, Carole Knibbe, Guillaume Beslon. _Molecular Ecology_, 2023. ([doi](https://doi.org/10.1111/mec.17234), [pdf](./pdf/molevol2023.pdf))
+
 * **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.
 **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life_, 2022. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
 https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
