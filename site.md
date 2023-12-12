@@ -26,33 +26,35 @@ In order to study this phenomenon under the light of evolution, I developed and 
 
 ### Computational Biology
 
-* **_Forward-in-time simulation of chromosomal rearrangements: The invisible backbone that sustains long-term adaptation_**. Paul Banse, Juliette Luiselli, David P. Parsons, **Théotime Grohens**, Marco Foley, Leonardo Trujillo, Jonathan Rouzaud-Cornabas, Carole Knibbe, Guillaume Beslon. _Molecular Ecology_, 2023. ([doi](https://doi.org/10.1111/mec.17234), [pdf](./pdf/molevol2023.pdf))
+* **_Forward-in-time simulation of chromosomal rearrangements: The invisible backbone that sustains long-term adaptation_**.\
+  Paul Banse, Juliette Luiselli, David P. Parsons, **Théotime Grohens**, Marco Foley, Leonardo Trujillo, Jonathan Rouzaud-Cornabas, Carole Knibbe, Guillaume Beslon. _Molecular Ecology_, 2023. ([doi](https://doi.org/10.1111/mec.17234), [pdf](./pdf/molevol2023.pdf))
 
-* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life_, 2022. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
+* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling: extended version_**.\
+  **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Artificial Life_, 2022. ([hal](https://hal.archives-ouvertes.fr/hal-03667822/), [doi](
 https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
-* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.
-**Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_, 2021. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
+* **_A Genome-Wide Evolutionary Simulation of the Transcription-Supercoiling Coupling_**.\
+  **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _ALIFE 2021_, 2021. ([hal](https://hal.archives-ouvertes.fr/hal-03242696), [doi](https://doi.org/10.1162/isal_a_00434), [pdf](./pdf/alife21.pdf))
 
 #### Preprint(s)
 
-* **_Emergence of Supercoiling-Mediated Regulatory Networks through Bacterial Chromosome Rearrangements_**. **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _bioRxiv_, 2022. ([doi](https://doi.org/10.1101/2022.09.23.509185), [pdf](./pdf/biorXiv22.pdf))
+* **_Emergence of Supercoiling-Mediated Regulatory Networks through Bacterial Chromosome Rearrangements_**.\
+  **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _bioRxiv_, 2022. ([doi](https://doi.org/10.1101/2022.09.23.509185), [pdf](./pdf/biorXiv22.pdf))
 
 ### Covid-19
 
-* **_Understanding and monitoring the evolution of the Covid-19 epidemic from medical emergency calls: the example of the Paris area_**.
-Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([hal](https://hal.archives-ouvertes.fr/hal-02648075v2), [doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
+* **_Understanding and monitoring the evolution of the Covid-19 epidemic from medical emergency calls: the example of the Paris area_**.\
+  Stéphane Gaubert, Marianne Akian, Xavier Allamigeon, Marin Boyet, Baptiste Colin, **Théotime Grohens**, Laurent Massoulié, David P. Parsons, Frédéric Adnet, Érick Chanzy, Laurent Goix, Frédéric Lapostolle, Éric Lecarpentier, Christophe Leroy, Thomas Loeb, Jean-Sébastien Marx, Caroline Télion, Laurent Tréluyer, Pierre Carli, _Comptes Rendus Mathématique_, 2020. ([hal](https://hal.archives-ouvertes.fr/hal-02648075v2), [doi](https://doi.org/10.5802/crmath.99), [pdf](./pdf/crm20.pdf))
 
 ### Programming Languages
 
-* **_Symbolic Execution for JavaScript_**.
-José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Philippa Gardner, _Principles and Practice of Declarative Programming_, 2018. ([doi](https://doi.org/10.1145/3236950.3236956), [pdf](./pdf/ppdp18.pdf))
+* **_Symbolic Execution for JavaScript_**.\
+  José Fragoso Santos, Petar Maksimovic, **Théotime Grohens**, Julian Dolby, Philippa Gardner, _Principles and Practice of Declarative Programming_, 2018. ([doi](https://doi.org/10.1145/3236950.3236956), [pdf](./pdf/ppdp18.pdf))
 
-### Ph.D. Thesis
+### PhD Thesis
 
-* **_Ride the Supercoiling:
-Evolution of Supercoiling-Mediated Gene Regulatory Networks through Genomic Inversions_**. Théotime Grohens, 2022. ([pdf](./pdf/phd.pdf))
+* **_Ride the Supercoiling: Evolution of Supercoiling-Mediated Gene Regulatory Networks through Genomic Inversions_**.\
+  **Théotime Grohens**, 2022. ([pdf](./pdf/phd.pdf))
 
 
 ## Talks & Posters
