@@ -59,6 +59,8 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 ## Talks & Posters
 
+* November 2023. [ETEE 2023](https://etee2023.sciencesconf.org), Gif-sur-Yvette, short talk.
+* July 2023. [SMBE 2023](https://www.smbe2023.org), Ferrara, poster.
 * September 2022. [BioSyL](http://www.biosyl.org/news/biosyl-day), Lyon, short talk.
 * November 2021. [GDR BIM](https://www.gdr-bim.cnrs.fr/journees-du-gdr-bim-2021/), Lyon, poster.
 * November 2021. [CompSysBio winter school](https://project.inria.fr/compsysbio2021/), Aussois, short talk and poster.
