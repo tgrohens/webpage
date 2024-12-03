@@ -4,22 +4,24 @@ title: Théotime Grohens
 
 <img src="./img/photo.jpg" width="250" align="right" style="margin:0px 20px">
 
-I’m a post-doctoral researcher at the [Center for Genomic Regulation](https://www.crg.eu/) in Barcelona, in the [Weghorn lab](https://weghornlab.net/).
+I’m a post-doctoral researcher in the [Comparative and Integrative Genomics of Organ Development (CIGOGNE)](https://www.ens-lyon.fr/LBMC/equipes/comparative-and-integrative-genomics-of-organ-development) team, at the [Laboratory of Biology and Modeling of the Cell](https://www.ens-lyon.fr/LBMC) at [ENS Lyon](https://www.ens-lyon.fr).
 
-Before that, I did my Ph.D. at [INSA Lyon](https://www.insa-lyon.fr/), in the [Inria Beagle](https://team.inria.fr/beagle/) team.
-Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php), and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
+Before that, I did a first postdoc at the [Center for Genomic Regulation](https://www.crg.eu/) in Barcelona, in the [Weghorn lab](https://weghornlab.net/), after obtaining my Ph.D. at [INSA Lyon](https://www.insa-lyon.fr/) in the [Inria Beagle](https://team.inria.fr/beagle/) team.
+Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
 
 You can find my CV [here](./pdf/resume.pdf), follow me on [Twitter](https://twitter.com/tgrohens), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
 
-You can reach me at `theotime (.) grohens (@) crg (.) eu`.
+You can reach me at `theotime (.) grohens (@) ens-lyon (.) fr`.
 
 ## Research interests
 
 My research interests focus on evolutionary biology, and especially mathematical and computational models of evolution.
 
-I am currently working on understanding the selection pressures that are at work in cancer cells, and in particular on the interaction between cancer and the immune system.
+In the CIGOGNE team, I am currently working on elucidating the molecular mechanisms guiding the evolution of rodent tooth development.
 
-During my Ph.D., I worked on understanding how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, through the lens of the coupling between DNA supercoiling and gene transcription.
+During my first postdoc, I worked on understanding the selection pressures that act upon cancer cells, and in particular on the interaction between cancer and the immune system.
+
+During my Ph.D., I studied how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, through the lens of the coupling between DNA supercoiling and gene transcription.
 In order to study this phenomenon under the light of evolution, I developed and used [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape bacterial genomes over evolutionary timescales.
 
 ## Publications
