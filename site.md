@@ -19,9 +19,9 @@ My research interests focus on evolutionary biology, and especially mathematical
 
 In the CIGOGNE team, I am currently working on elucidating the molecular mechanisms guiding the evolution of rodent tooth development.
 
-During my first postdoc, I worked on understanding the selection pressures that act upon cancer cells, and in particular on the interaction between cancer and the immune system.
+During my postdoc at CRG, I worked on understanding the selection pressures that act upon cancer cells, and in particular on the interaction between cancer and the immune system.
 
-During my Ph.D., I studied how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, through the lens of the coupling between DNA supercoiling and gene transcription.
+During my PhD, I studied how epistatic interactions between different kinds of mutations help shape evolutionary dynamics, through the lens of the coupling between DNA supercoiling and gene transcription.
 In order to study this phenomenon under the light of evolution, I developed and used [EvoTSC](https://gitlab.inria.fr/tgrohens/evotsc), a simulation aimed at understanding how the transcription-supercoiling coupling can shape bacterial genomes over evolutionary timescales.
 
 ## Publications
@@ -70,4 +70,4 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 ## Teaching
 
-During my Ph.D., I taught computer science at [INSA Lyon](https://www.insa-lyon.fr/), in the [Biosciences](https://biosciences.insa-lyon.fr/) and [Computer Science](https://if.insa-lyon.fr/) departments, and at [IUT Lyon 1](https://iut.univ-lyon1.fr/).
+During my PhD, I taught computer science at [INSA Lyon](https://www.insa-lyon.fr/), in the [Biosciences](https://biosciences.insa-lyon.fr/) and [Computer Science](https://if.insa-lyon.fr/) departments, and at [IUT Lyon 1](https://iut.univ-lyon1.fr/).
