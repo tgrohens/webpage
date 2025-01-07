@@ -68,6 +68,13 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 * July 2021. [ALIFE 2021](https://www.robot100.cz/alife2021/), Prague (virtual), short talk.
 * November 2019. [GDR AIEM](https://aiem2019.sciencesconf.org/program), Toulouse, short talk.
 
+
+## Software
+
+* [EvoTSC](https://gitlab.inria.fr/tgrohens/EvoTSC). An individual-based evolutionary simulation based on a model of the transcription-supercoiling coupling that I developed during my PhD years.
+* A [blog post](https://v8.dev/blog/dataview) relating my internship work on the [V8](https://github.com/v8/v8) JavaScript engine.
+
+
 ## Teaching
 
 During my PhD, I taught computer science at [INSA Lyon](https://www.insa-lyon.fr/), in the [Biosciences](https://biosciences.insa-lyon.fr/) and [Computer Science](https://if.insa-lyon.fr/) departments, and at [IUT Lyon 1](https://iut.univ-lyon1.fr/).
