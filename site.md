@@ -72,7 +72,8 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 ## Software
 
 * [EvoTSC](https://gitlab.inria.fr/tgrohens/EvoTSC). An individual-based evolutionary simulation based on a model of the transcription-supercoiling coupling that I developed during my PhD years.
-* A [blog post](https://v8.dev/blog/dataview) relating my internship work on the [V8](https://github.com/v8/v8) JavaScript engine.
+* [Aevol](https://gitlab.inria.fr/aevol/aevol). Aevol is an _in silico_ experimental evolution platform, used to simulate populations of individuals with realistic genomes, the development of which I took part in during my PhD.
+* A [blog post](https://v8.dev/blog/dataview) relating my internship work on the [V8 JavaScript engine](https://github.com/v8/v8) powering the Chrome browser.
 
 
 ## Teaching
