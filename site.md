@@ -60,6 +60,7 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 ## Talks & Posters
 
+* August 2025. [ESEB 2025](https://eseb2025.com/), Barcelona, poster.
 * November 2023. [ETEE 2023](https://etee2023.sciencesconf.org), Gif-sur-Yvette, short talk.
 * July 2023. [SMBE 2023](https://www.smbe2023.org), Ferrara, poster.
 * September 2022. [BioSyL](http://www.biosyl.org/news/biosyl-day), Lyon, short talk.
