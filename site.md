@@ -7,7 +7,7 @@ title: Théotime Grohens
 I’m a post-doctoral researcher in the [Comparative and Integrative Genomics of Organ Development (CIGOGNE)](https://www.ens-lyon.fr/LBMC/equipes/comparative-and-integrative-genomics-of-organ-development) team, at the [Laboratory of Biology and Modeling of the Cell](https://www.ens-lyon.fr/LBMC) at [ENS Lyon](https://www.ens-lyon.fr).
 
 Before that, I did a first postdoc at the [Center for Genomic Regulation](https://www.crg.eu/) in Barcelona, in the [Weghorn lab](https://weghornlab.net/), after obtaining my Ph.D. at [INSA Lyon](https://www.insa-lyon.fr/) in the [Inria Beagle](https://team.inria.fr/beagle/) team.
-Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://wikimpri.dptinfo.ens-cachan.fr/doku.php) and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
+Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://mpri-master.ens.fr/doku.php) and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
 
 You can find my CV [here](./pdf/resume.pdf), follow me on [Twitter](https://twitter.com/tgrohens), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
 
