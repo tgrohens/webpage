@@ -29,7 +29,9 @@ In order to study this phenomenon under the light of evolution, I developed and 
 ### Computational Biology
 
 * **_Emergence of Supercoiling-Mediated Regulatory Networks through the Evolution of Bacterial Chromosome Organization_**.\
-  **Théotime Grohens**, Sam Meyer, Guillaume Beslon, _Peer Community in: Mathematical & Computational Biology_, 2024. ([doi](https://doi.org/10.24072/pci.mcb.100198), [pdf](./pdf/biorxiv2024.pdf))
+  **Théotime Grohens**, Sam Meyer, Guillaume Beslon.
+  * Journal article: _PLOS Computational Biology_, 2025. ([doi](https://doi.org/10.1371/journal.pcbi.1013482), [pdf](./pdf/ploscb25.pdf))
+  * Peer-reviewed preprint: _Peer Community in: Mathematical & Computational Biology_, 2024. ([doi](https://doi.org/10.24072/pci.mcb.100198), [pdf](./pdf/biorxiv2024.pdf))
 
 * **_Forward-in-time simulation of chromosomal rearrangements: The invisible backbone that sustains long-term adaptation_**.\
   Paul Banse, Juliette Luiselli, David P. Parsons, **Théotime Grohens**, Marco Foley, Leonardo Trujillo, Jonathan Rouzaud-Cornabas, Carole Knibbe, Guillaume Beslon. _Molecular Ecology_, 2023. ([doi](https://doi.org/10.1111/mec.17234), [pdf](./pdf/molevol2023.pdf))
