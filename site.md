@@ -9,7 +9,7 @@ I’m a post-doctoral researcher in the [Comparative and Integrative Genomics of
 Before that, I did a first postdoc at the [Center for Genomic Regulation](https://www.crg.eu/) in Barcelona, in the [Weghorn lab](https://weghornlab.net/), after obtaining my Ph.D. at [INSA Lyon](https://www.insa-lyon.fr/) in the [Inria Beagle](https://team.inria.fr/beagle/) team.
 Even before, I studied at the [École Normale Supérieure](https://www.ens.psl.eu) in Paris, where I obtained an M. Sc. in [theoretical computer science](https://mpri-master.ens.fr/doku.php) and an M. Sc. in [ecology and evolution](https://www.enseignement.biologie.ens.fr/spip.php?article193).
 
-You can find my CV [here](./pdf/resume.pdf), follow me on [BlueSky](https://bsky.app/profile/tgrohens.bsky.social), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/tgrohens).
+You can find my CV [here](./pdf/resume.pdf), follow me on [BlueSky](https://bsky.app/profile/tgrohens.bsky.social), or look at my code on [GitHub](https://github.com/tgrohens) and on the [Inria GitLab](https://gitlab.inria.fr/x-grohens).
 
 You can reach me at `theotime (.) grohens (@) ens-lyon (.) fr`.
 
