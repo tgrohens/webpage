@@ -62,6 +62,8 @@ https://doi.org/10.1162/artl_a_00373), [pdf](./pdf/artl22.pdf))
 
 ## Talks & Posters
 
+* July 2026. [JOBIM 2026](https://premc.org/jobim-2026), Strasbourg, short talk.
+* November 2025. [AIEM 2025](https://gdr-aiem-2025.sciencesconf.org/), Montpellier, short talk.
 * August 2025. [ESEB 2025](https://eseb2025.com/), Barcelona, poster.
 * November 2023. [ETEE 2023](https://etee2023.sciencesconf.org), Gif-sur-Yvette, short talk.
 * July 2023. [SMBE 2023](https://www.smbe2023.org), Ferrara, poster.
